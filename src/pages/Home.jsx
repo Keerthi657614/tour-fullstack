@@ -129,7 +129,7 @@ const Home = () => {
                 </div>
               </Col>
             </Row>
-            <SearchBar />
+         
           </Container>
         </section>
 
